@@ -66,8 +66,6 @@
           </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berat-ayvaz&show_icons=true&locale=en&layout=compact" alt="berat-ayvaz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berat-ayvaz&show_icons=true&locale=en" alt="berat-ayvaz" /></p>
 
 
